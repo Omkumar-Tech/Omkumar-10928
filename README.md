@@ -67,4 +67,5 @@ Selected function execute hone ke baad program end kiya.
 
 
 ## ✅ Output Example
-<img
+<img width="1868" height="957" alt="Screenshot 2026-01-05 185849" src="https://github.com/user-attachments/assets/0b2a8990-1772-4eb1-8b2f-dc44eb65b069" />
+
